@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(246,246,246);
+}
+#logo{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+}
+.row1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.search{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    text-align: center;
+    outline: none;
+}
+.name1{
+    color: rgb(128,108,121);
+}
+.list1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    list-style-type: none;
+}
+.browse{
+    margin-left: 38px;
+}
+.venky{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.row2{
+    display: flex;
+    
+}
+.rightBox{
+    padding: 50px;
+}
+.leftBox{
+    overflow: scroll;
+    
+}
+.heart{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.play{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+}
+.playbut{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(43,197,180);
+}
+.dots{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.round1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.details2{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 50px;
+}
+#songs{
+    text-decoration: underline;
+}
+.list2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    list-style-type: none;
+    color: rgb(192,186,191);
+}
+.library{
+    margin-left: 40px;
+}
+li{
+    color: rgb(119,121,129);
+}
+h4{
+    color: rgb(192,186,191);
+}
+.artistName{
+    color: rgb(62,62,62);
+}
