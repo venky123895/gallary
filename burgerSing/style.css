@@ -1,0 +1,13 @@
+
+body{
+    background-image: url("back.jpg");
+ 
+}
+.main{
+    display: flex;
+    justify-content: space-evenly   ;
+    align-items: center;
+}
+h3{
+    color: white;
+}
